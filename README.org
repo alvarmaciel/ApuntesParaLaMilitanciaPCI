@@ -1,1 +1,3 @@
-* Apuntes Para la Militancia del Plan Conectar Igualdad
+* Apuntes Para la Militancia del Programa Conectar Igualdad
+El [[http://www.conectarigualdad.gob.ar/][Programa Conectar Igualdad]] supone mucho más que la entrega de máquinas por parte del estado. Para hacer efectiva la apropiación de las tecnologías de manera que se integren en el tejido social, además de máquinas, necesitamos vincular a la  ciudadanía con usos críticos de las tecnologías.
+Este repositorio contiene algunas recomendaciones derivadas del trabajo de militantes del software libre para abordar acciones que fortalezcan el trabajo en las escuelas.  
